@@ -18,7 +18,7 @@ function Navbar() {
     <Disclosure as="nav" className="bg-white">
       {({ open }) => (
         <>
-          <div className="mx-auto max-w-7xl border-b border-gray-50 bg-white px-2 sm:px-6 lg:px-8">
+          <div className="mx-auto border-b border-gray-50 bg-white px-2 sm:px-6 lg:px-8">
             <div className="relative mx-0 flex h-16 items-center justify-between md:mx-20">
               <div className="absolute inset-0 left-0 flex items-center sm:hidden">
                 {/* Mobile menu button*/}
